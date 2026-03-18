@@ -1,0 +1,5 @@
+
+#Common Settings
+[common]
+	enabledItems = ["sophisticatedbackpacks:advanced_alchemy_upgrade|true", "sophisticatedbackpacks:pickup_upgrade|true", "sophisticatedbackpacks:smelting_upgrade|true", "sophisticatedbackpacks:auto_smoking_upgrade|true", "sophisticatedbackpacks:smoking_upgrade|true", "sophisticatedbackpacks:iron_backpack|true", "sophisticatedbackpacks:feeding_upgrade|true"]
+
